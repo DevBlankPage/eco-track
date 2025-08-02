@@ -31,7 +31,8 @@ With climate change becoming an urgent global issue, individuals often struggle 
 
 ## Screenshots
 
-![Screenshot of EcoTrack Dashboard](./assets/screenshot.png)
+
+![EcoTrack Screenshot](./assets/ScreenShot.png)
 
 **EcoTrack Dashboard Overview:**  
 - **Daily Tracker:** Input daily travel distance (km), electricity usage (kWh), and select diet type to estimate daily carbon footprint.  
