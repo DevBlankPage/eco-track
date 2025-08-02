@@ -50,7 +50,7 @@ With climate change becoming an urgent global issue, individuals often struggle 
 - Member 4: Aliya Mumthas A L
 
 
-- GitHub: [[Your GitHub Profile URL] ](https://github.com/DevBlankPage) 
+- GitHub: [[View the project on GitHub] ](https://github.com/DevBlankPage) 
 - Email: bazilrepo@gmail.com
 
 ---
